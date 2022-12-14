@@ -22,7 +22,7 @@ I hope one day, one of this creations may hit the market and **change the world!
 
 ***
 
-*Made with ❤️ in Bogotá, Colombia 🇨🇴*
+*Made with ❤️ in Colombia 🇨🇴*
 
 <!--
 **johannstark/johannstark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
