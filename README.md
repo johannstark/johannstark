@@ -3,7 +3,6 @@
 I'm **Juanes** and i like to build stuff 🤖 🛠️
 
 I work as Backend Tech Lead @ [Hunty](https://hunty.com) but as an *electronics engineer*, i love to build robots and devices as a hobby.
-
 I hope one day, one of this creations may hit the market and **change the world! 🚀**
 
 ### I can help you with: 
