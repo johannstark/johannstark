@@ -18,7 +18,7 @@ I write code on:
 
 I build stuff using:
 
-![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)![ESP8266](https://img.shields.io/badge/ESP8266-C51A4A?style=for-the-badge&logo=Espressif&logoColor=white)![STM](https://img.shields.io/badge/ST_Microelectronics-%230072C6.svg?style=for-the-badge&logo=stmicroelectronics&logoColor=white)![Homebridge](https://img.shields.io/badge/homebridge-%23491F59.svg?style=for-the-badge&logo=homebridge&logoColor=white)![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)![ESP8266](https://img.shields.io/badge/ESP8266-C51A4A?style=for-the-badge&logo=Espressif&logoColor=white)![STM](https://img.shields.io/badge/STM-%230072C6.svg?style=for-the-badge&logo=stmicroelectronics&logoColor=white)![Homebridge](https://img.shields.io/badge/homebridge-%23491F59.svg?style=for-the-badge&logo=homebridge&logoColor=white)![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white)
 
 Deploying solutions with:
 
