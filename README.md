@@ -3,11 +3,12 @@
 I'm **Juanes** and i like to build stuff 🤖 🛠️
 
 I work as Backend Tech Lead @ [Hunty](https://hunty.com) but as an *electronics engineer*, i love to build robots and devices as a hobby.
+
 I hope one day, one of this creations may hit the market and **change the world! 🚀**
 
 ### I can help you with: 
 
- - Python Development (Mostly [FastAPI](https://fastapi.tiangolo.com), Sellenium, MicroPython) 🐍
+ - Python Development (Mostly [FastAPI](https://fastapi.tiangolo.com), [Sellenium](https://github.com/SeleniumHQ/selenium), [Micropython](https://micropython.org)) 🐍
  - Electronics, Arduino, Control Engineering, Raspberry Pi, LEGO Mindstorms 🤖
  - Apple devices, macOS setup, iPhone tricks, etc. 📱
  - Leadership lectures and conferences 📣
@@ -25,15 +26,15 @@ Deploying solutions with:
 
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
 
-Managing data with:
+Managing data on:
 
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=yellow)![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-Writing with:
+Writing using:
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white) RIP -> ![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white)
 
-## I would love to help you in your next Big project!
+## I would love to help you in your next Big project! (click me)
 <div align="left">
 <a href="https://twitter.com/johannstark" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
