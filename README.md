@@ -1,4 +1,4 @@
-# Hi there 👋
+## Hi there 👋
 
 I'm **Juanes** and i like to build stuff 🤖 🛠️
 
@@ -9,7 +9,6 @@ I hope one day, one of this creations may hit the market and **change the world!
 
  - Python Development (Mostly [FastAPI](https://fastapi.tiangolo.com), [Sellenium](https://github.com/SeleniumHQ/selenium), [Micropython](https://micropython.org)) 🐍
  - Electronics, Arduino, Control Engineering, Raspberry Pi, LEGO Mindstorms 🤖
- - Apple devices, macOS setup, iPhone tricks, etc. 📱
  - Leadership lectures and conferences 📣
 
 ## 💪 Skills unlocked:
